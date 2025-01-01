@@ -1,4 +1,4 @@
-# Planet Themes
+ # Planet Themes
 <a href="https://marketplace.eclipse.org/content/planet-themes">
 <img src ="https://img.shields.io/eclipse-marketplace/v/planet-themes.svg" />
 </a>
